@@ -1,4 +1,4 @@
-A client and a server using signals. The client sends a string and the server prints it out.
+A client and a server using signals. The client sends a string and the server prints it out.  
 The project desciption is in the pdf.
 
 This project was written for and compiled on a Mac.  
