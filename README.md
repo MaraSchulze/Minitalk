@@ -5,7 +5,7 @@ The client sends a string and the server prints it out.
 The detailed project description is in the pdf file.  
 
 ## I passed the project with 125%
-<img src="ScreenshotSuccess.png" alt="Success Photo" width="200">
+<img src="ScreenshotMinitalk.png" alt="Success Photo" width="200">
 
 ## Usage
 This project was written for and compiled on a Mac.  
